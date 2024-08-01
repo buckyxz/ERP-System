@@ -1,4 +1,4 @@
-ERP System
+#ERP System
 Overview
 This Enterprise Resource Planning (ERP) system is designed to streamline business operations by integrating various departments and functions into a single, comprehensive software solution. Our ERP system aims to enhance efficiency, facilitate data-driven decision making, and improve overall business performance.
 Features
