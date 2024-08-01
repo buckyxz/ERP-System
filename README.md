@@ -19,7 +19,7 @@ Technology Stack
 - Frontend: [Specify your frontend framework, e.g., React, Vue.js, etc.]
 - Database: [Specify your database, e.g.,  MongoD etc.]
 - Authentication: [Specify your auth method, e.g., JWT, OAuth, etc.]
-<img src="readme-img/node.png" alt="Node.js Logo" width="200"/>
+<img src="readme-img/node.png" alt="Node.js Logo" width="200"/> <img src="readme-img/mongo.png" alt="Node.js Logo" width="200"/>
 
 Installation
 
