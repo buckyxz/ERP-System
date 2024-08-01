@@ -1,4 +1,4 @@
-<img src="readme-img/ERP.jpg" alt="ERP Logo" width="800"/>
+<center> <img src="readme-img/ERP.jpg" alt="ERP Logo" width="1000"/> </center>
 
 Overview
 
