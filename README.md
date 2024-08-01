@@ -20,7 +20,7 @@ Technology Stack
 - Database: [Specify your database, e.g.,  MongoD etc.]
 - Authentication: [Specify your auth method, e.g., JWT, OAuth, etc.] <br>
   <br>
-<img src="readme-img/node.png" alt="Node.js Logo" width="200"/> <br> <img src="readme-img/mongo.png" alt="Mongo Logo" width="200"/>
+<img src="readme-img/node.png" alt="Node.js Logo" width="200"/>  <img src="readme-img/mongo.png" alt="Mongo Logo" width="200"/>
 
 Installation
 
