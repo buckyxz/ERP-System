@@ -19,7 +19,7 @@ Technology Stack
 - Frontend: [Specify your frontend framework, e.g., React, Vue.js, etc.]
 - Database: [Specify your database, e.g.,  MongoD etc.]
 - Authentication: [Specify your auth method, e.g., JWT, OAuth, etc.]
-
+![Node.js Logo](node.png)
 Installation
 
 1. Clone the repository:
